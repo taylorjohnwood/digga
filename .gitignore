@@ -1,0 +1,13 @@
+.env
+data/
+bin/
+obj/
+node_modules/
+web/dist/
+*.db
+*.db-wal
+*.db-shm
+*.importing
+
+# Personal notes, kept out of the public repo
+DJ Track-Discovery Tool — Conversation Summary.md
